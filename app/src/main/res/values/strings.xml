@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">rMusic</string>
+    <string name="background_image">Background image</string>
+    <string name="welcome_to_rmusic">Welcome to rMusic</string>
+    <string name="background">background</string>
+    <string name="all_songs">Songs</string>
+    <string name="playerbackground">playerbackground</string>
+    <string name="musiclabel">musiclabel</string>
+    <string name="play">play</string>
+    <string name="previous">previous</string>
+    <string name="pause">pause</string>
+    <string name="songname">Songname</string>
+    <string name="todo">TODO</string>
+</resources>
